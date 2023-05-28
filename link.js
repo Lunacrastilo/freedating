@@ -1,1 +1,1 @@
-const offerLink = "http://gg.gg/148466"
+const offerLink = "https://is.gd/PrBsmb"
